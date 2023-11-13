@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil! Sou o Vinícius, um músico baterista há mais de dez a
 
 ## Como me encontrar
 
-- GitHub: [Vinicius-Drums]
+- GitHub: [https://github.com/Vinicius-Drums]
 - LinkedIn:[ www.linkedin.com/in/vinicius-oliveira-9858a3299]
 - Email: [anaogeraldino@gmail.com]
 
